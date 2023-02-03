@@ -1,6 +1,6 @@
-{
-	"Title" : "Chapter 1: Go to 5 million?",
-	"Story" : "Nanyang City.
+Chapter 1: Go to 5 million?
+
+Nanyang City.
 
 A teenager wearing a light blue shirt is walking in the campus of Nanyang University. It will look at the ground from time to the young eye, as if it is looking for something.
 
@@ -176,5 +176,4 @@ Chen Mo looked at the SMS above the phone and said it very much.
 
 " !"
 
-It is still not waiting for Chen Mo., how is this text message, a rush of knocking on the door."
-}
+It is still not waiting for Chen Mo., how is this text message, a rush of knocking on the door.
